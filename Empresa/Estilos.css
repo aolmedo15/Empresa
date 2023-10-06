@@ -83,31 +83,9 @@ div {margin-bottom: 3rem;}
 }
 
 /** CSS PARA INICIO **/
-.columna1 {
-    background-color: blue;
-    display: flex;
-    width: 70%;
-    height: 80%;
-}
-.columna1 div{
-    flex: 1;
-}
-
-.columna2{
-    height: 400px;
-    background-color: #ffffff;
-    margin: auto;
-    width: 600px;
-    color: white;
-    align-items: center;
-    padding-left: 10px;
-    padding-top: 10px;
-    padding-right: 10px;
-    font-family: 'Comfortaa', cursive;
-}
-
-h1{
-    font-size: 40px;
+h1#inicio{
+    font-size: 90px;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     letter-spacing: 3px;
+    color: blue;
 }
